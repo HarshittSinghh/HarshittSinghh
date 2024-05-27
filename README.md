@@ -26,11 +26,11 @@
 ### 🎨 Hobbies
 - 📚 Reading about new tech trends
 - 🎮 Playing video games
+  - ![Game 1](https://media.giphy.com/media/ZgTR3ujlNcVEE/giphy.gif)
+  - ![Game 2](https://media.giphy.com/media/8vCcGkGjnEjb6/giphy.gif)
 - 🚴‍♂️ Cycling
 - 🖥️ Programming
 - 🎧 Listening to music
-
-![Hobbies](https://media.giphy.com/media/1zSz5MVw4zJvNigai4/giphy.gif)
 
 ### 📬 Let's Connect
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/harshit-kumar-singh-46511022b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 🌐
