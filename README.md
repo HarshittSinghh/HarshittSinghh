@@ -15,7 +15,7 @@
 - 🌐 Web Development: HTML, CSS, JavaScript, React, MERN Stack (MongoDB, Express.js, React, Node.js)
 - 📱 Android Development: Flutter(Dart).
 
-![Coding]([https://media.giphy.com/media/7P5vhZd6t2sgfXmj12/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWhkOG5ud3VweXcwNnA0cnl5eXZmYWNrbzF4MGR1M2FtbzUxMnNyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/21RuJeCtjtkVNe7U26/giphy.gif))
+![Coding](https://giphy.com/gifs/cartoon-network-emea-cuatro-brazos-21RuJeCtjtkVNe7U26)
 
 ### 📂 Projects
 - **Project 1: [SportsKart]**
