@@ -33,8 +33,12 @@
 ⚽
 
 ### 🎮 Gaming GIFs
-- ![Gaming 1](https://media.giphy.com/media/ZgTR3ujlNcVEE/giphy.gif)
-- ![Gaming 2](https://media.giphy.com/media/8vCcGkGjnEjb6/giphy.gif)
+- ![Gaming 1](https://media.giphy.com/media/mW05nwEyXLP0Y/giphy.gif)
+- ![Gaming 2](https://media.giphy.com/media/jRlPwt6u17HMI/giphy.gif)
+
+### 📊 Recent GitHub Activity
+- Check out my latest commits:
+  - [![GitHub Activity](https://img.shields.io/github/last-commit/your-username/your-repository)](https://github.com/HarshittSinghh)
 
 ### 📬 Let's Connect
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/harshit-kumar-singh-46511022b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 🌐
