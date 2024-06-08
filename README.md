@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harshit Kumar Singh <br> 😄 Pronouns - He/Him</h1>
-
+<h1 align="center">Hi 👋, I'm Harshit Kumar Singh</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" alt="Hello">
@@ -26,15 +25,15 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,firebase,github,html,css,js,React,MongoDB,java,ps&perline=5" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=flutter,firebase,github,html,css,js,react,mongodb,java,ps,c&perline=5" alt="My Skills">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshittSinghh&show_icons=true&theme=dark" alt="Harshit Kumar Singh's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark" alt="Harshit Kumar Singh's GitHub stats">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshittSinghh&theme=dark" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark" alt="Top Langs">
 </p>
 
 ### 📂 Projects
@@ -76,6 +75,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn Badge">
   </a>
 </p>
+
+### 😄 Pronouns
+- He/Him
+
 ---
 
 ✨ This repository is special because it showcases my journey and projects. Feel free to explore and connect!
