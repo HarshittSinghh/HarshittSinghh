@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,firebase,github,html,css,js,react,mongodb,java,ps,express,nj,c&perline=5" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=flutter,firebase,github,html,css,js,react,mongodb,java,ps,express,node,c&perline=5" alt="My Skills">
   </a>
 </p>
 
