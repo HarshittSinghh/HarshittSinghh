@@ -20,8 +20,8 @@
 ### 🛠️ Skills
 - 💻 **Programming Languages**: Java, C
 - 🌐 **Web Development**: HTML, CSS, JavaScript, React, MERN Stack (MongoDB, Express.js, React, Node.js)
-- 📱 **Android Development**: Flutter (Dart)
-- 🔧 **Tools**: Firebase, GitHub, Postman, Adobe Photoshop, AutoCAD
+- 📱 **Mobile Development**: Flutter (Dart)
+- 🔧 **Tools & Technologies**: Firebase, GitHub, Postman, Adobe Photoshop, AutoCAD
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -70,9 +70,6 @@
   </a>
   <a href="https://www.instagram.com/HarshittSinghh">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
-  </a>
-  <a href="https://fb.com/">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge">
   </a>
   <a href="https://twitter.com/HarshittSinghh">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
