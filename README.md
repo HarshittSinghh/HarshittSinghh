@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harshit Kumar Singh <br>### 😄 Pronouns - He/Him</h1>
+<h1 align="center">Hi 👋, I'm Harshit Kumar Singh <br> 😄 Pronouns - He/Him</h1>
 
 
 <p align="center">
@@ -26,12 +26,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,firebase,github,html,css,js,,c,java,xd&perline=5" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=flutter,firebase,github,html,css,js,,C,java,xd&perline=5" alt="My Skills">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark" alt="Harshit Kumar Singh's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshittSinghh&show_icons=true&theme=dark" alt="Harshit Kumar Singh's GitHub stats">
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshittSinghh&theme=dark" alt="Top Langs">
