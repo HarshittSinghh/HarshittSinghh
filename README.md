@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,firebase,github,html,css,js,react,mongodb,java,ps,express,node,c&perline=5" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=flutter,firebase,github,html,css,js,react,mongodb,java,ps,express,mysql,c&perline=5" alt="My Skills">
   </a>
 </p>
 
@@ -71,7 +71,7 @@
   <a href="https://www.instagram.com/HarshittSinghh">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
   </a>
-  <a href="https://twitter.com/HarshittSinghh">
+  <a href="https://twitter.com/Harshitt_Singhh">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
   </a>
   <a href="https://www.linkedin.com/in/harshit-kumar-singh-46511022b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
