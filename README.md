@@ -43,13 +43,6 @@
   <img src="https://komarev.com/ghpvc/?username=HarshittSinghh&style=for-the-badge&color=orange" alt=""/>
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshittSinghh&show_icons=true&theme=dark" alt="Harshit Kumar Singh's GitHub stats">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshittSinghh&layout=compact&theme=dark" alt="Top Languages">
-</p>
-
 ### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HarshittSinghh&theme=darkhub&no-bg=true&no-frame=true&margin-w=4" alt="GitHub Trophies">
