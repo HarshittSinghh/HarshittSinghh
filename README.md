@@ -1,24 +1,24 @@
-<h1 align="center">Hi 👋, I'm Harshit Kumar Singh (he/him)</h1>
+# Hi 👋, I'm **Harshit Kumar Singh** (he/him)
 
 <p align="center">
   <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" alt="Hello" width="300">
 </p>
 
 ### 🚀 About Me
-- 🎓 Pursuing B.Tech at **KIIT Bhubaneswar**, Odisha.
+- 🎓 **B.Tech** in Computer Science Engineering at **KIIT Bhubaneswar**, Odisha.
 - 💡 Passionate about **Engineering, Programming, Science, and Technology**.
-- 🔭 Currently working on **Flutter** and mobile development.
-- 🌱 Learning **Backend Development**.
-- 📫 Reach me at: [hsinghjnpkkt111@gmail.com](mailto:hsinghjnpkkt111@gmail.com).
-- ⚡ Fun fact: I'm coming to teen!
-- 🌱 Always learning and exploring new technologies.
+- 🔭 Currently focusing on **Flutter** and **Mobile Development**.
+- 🌱 Learning **Backend Development** with **Node.js** and **MongoDB**.
+- 📫 You can reach me at: [hsinghjnpkkt111@gmail.com](mailto:hsinghjnpkkt111@gmail.com).
+- ⚡ Fun fact: **I’m still in my teen years** but eager to contribute to the tech world!
+- 🌱 **Always learning and exploring new technologies.**
 
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Learning" width="300">
 </p>
 
 ### 🛠️ Skills
-- 💻 **Programming Languages**: Java, C
+- 💻 **Programming Languages**: Java, C, Dart
 - 🌐 **Web Development**: HTML, CSS, JavaScript, React, MERN Stack (MongoDB, Express.js, React, Node.js)
 - 📱 **Mobile Development**: Flutter (Dart)
 - 🔧 **Tools & Technologies**: Firebase, GitHub, Postman, Adobe Photoshop, AutoCAD
@@ -34,7 +34,6 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <p align="center">
   <img src="https://streak-stats.demolab.com?user=HarshittSinghh&theme=highcontrast&hide_border=true&border_radius=5&card_width=800" alt="GitHub Streak Stats" width="100%" height="auto">
 </p>
 
@@ -45,11 +44,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshittSinghh&langs_count=5&layout=compact&theme=radical&hide_border=true&card_width=400" width="400" alt="Most Used Languages">
 </p>
 
-
 ---
-<div id="header" align="center">
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=HarshittSinghh&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </div>
+
 ---
 
 ### 📂 Most Used Languages
