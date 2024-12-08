@@ -40,7 +40,10 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshittSinghh&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=HarshittSinghh's GitHub Stats" width="420" alt="GitHub Stats">
+   <p align="center">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshittSinghh&langs_count=10&theme=radical&hide_border=true&card_width=400&layout=pie"     alt="Most Used Languages Pie Chart">
+  </p>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshittSinghh&langs_count=5&layout=compact&theme=radical&hide_border=true&card_width=400" width="400" alt="Most Used Languages">
 </p>
 
