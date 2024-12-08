@@ -48,20 +48,9 @@
 </p>
 
 ---
-
-### 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=HarshittSinghh&theme=github&hide_border=true" alt="GitHub Contribution Graph" width="100%" height="auto">
-</p>
-
-
----
-
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=HarshittSinghh&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </div>
-
 ---
 
 ### 📂 Most Used Languages
