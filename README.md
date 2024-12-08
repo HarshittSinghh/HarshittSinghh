@@ -8,7 +8,7 @@
 - 🎓 **B.Tech** in Computer Science Engineering at **KIIT Bhubaneswar**, Odisha.
 - 💡 Passionate about **Engineering, Programming, Science, and Technology**.
 - 🔭 Currently focusing on **Flutter** and **Mobile Development**.
-- 🌱 Learning **Backend Development** with **Node.js** and **MongoDB**.
+- 🌱 Learning **Backend Development** with **Node.js**, **Express.js**, and **MongoDB**.
 - 📫 You can reach me at: [hsinghjnpkkt111@gmail.com](mailto:hsinghjnpkkt111@gmail.com).
 - ⚡ Fun fact: **I’m still in my teen years** but eager to contribute to the tech world!
 - 🌱 **Always learning and exploring new technologies.**
@@ -17,15 +17,19 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Learning" width="300">
 </p>
 
+---
+
 ### 🛠️ Skills
 - 💻 **Programming Languages**: Java, C, Dart
 - 🌐 **Web Development**: HTML, CSS, JavaScript, React, MERN Stack (MongoDB, Express.js, React, Node.js)
 - 📱 **Mobile Development**: Flutter (Dart)
+- 🔧 **Backend Development**: **Node.js**, **Express.js**
+- 🗄️ **Database**: MongoDB, SQL
 - 🔧 **Tools & Technologies**: Firebase, GitHub, Postman, Adobe Photoshop, AutoCAD
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,firebase,github,html,css,js,react,mongodb,java,ps,express,mysql,c&perline=5" alt="My Skills" width="600">
+    <img src="https://skillicons.dev/icons?i=flutter,firebase,github,html,css,js,react,mongodb,java,ps,express,mysql,c,nodejs&perline=5" alt="My Skills" width="600">
   </a>
 </p>
 
@@ -40,10 +44,10 @@
 ---
 
 <p align="center">
-   <p align="center">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshittSinghh&langs_count=10&theme=radical&hide_border=true&card_width=400&layout=pie"     alt="Most Used Languages Pie Chart">
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshittSinghh&langs_count=10&theme=radical&hide_border=true&card_width=400&layout=pie" alt="Most Used Languages Pie Chart">
+</p>
 
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshittSinghh&langs_count=5&layout=compact&theme=radical&hide_border=true&card_width=400" width="400" alt="Most Used Languages">
 </p>
 
@@ -63,6 +67,7 @@
   🛠️ **JavaScript**: Adding life to static web pages.  
   📱 **Dart**: Developing seamless cross-platform apps using Flutter.  
   🗄️ **MongoDB & SQL**: Managing structured and unstructured data.  
+  ⚙️ **Node.js & Express.js**: Building efficient and scalable server-side applications.
 </p>
 
 <p align="center">
@@ -72,6 +77,7 @@
 ---
 
 ### 📬 Let's Connect
+
 <p align="center" id="badges">
   <a href="https://github.com/HarshittSinghh">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge">
