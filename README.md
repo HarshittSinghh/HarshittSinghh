@@ -46,8 +46,10 @@
 
 ---
 
+### 📊 Contribution Graph
+
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=HarshittSinghh&theme=github" alt="Contribution Graph" width="800">
+  <img src="https://activity-graph.herokuapp.com/graph?username=HarshittSinghh&theme=github" alt="GitHub Contribution Graph" width="800">
 </p>
 
 ---
