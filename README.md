@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Harshit Kumar Singh (he/him)</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" alt="Hello">
+  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" alt="Hello" width="300">
 </p>
 
 ### 🚀 About Me
 - 🎓 Pursuing B.Tech at **KIIT Bhubaneswar**, Odisha.
 - 💡 Passionate about **Engineering, Programming, Science, and Technology**.
-- 🔭 I’m currently working on Flutter.
-- 🌱 I’m currently learning Backend development.
-- 📫 How to reach me: hsinghjnpkkt111@gmail.com.
-- ⚡ Fun fact: I'm coming to teen.
+- 🔭 Currently working on **Flutter** and mobile development.
+- 🌱 Learning **Backend Development**.
+- 📫 Reach me at: [hsinghjnpkkt111@gmail.com](mailto:hsinghjnpkkt111@gmail.com).
+- ⚡ Fun fact: I'm coming to teen!
 - 🌱 Always learning and exploring new technologies.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Learning">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Learning" width="300">
 </p>
 
 ### 🛠️ Skills
@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,firebase,github,html,css,js,react,mongodb,java,ps,express,mysql,c&perline=5" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=flutter,firebase,github,html,css,js,react,mongodb,java,ps,express,mysql,c&perline=5" alt="My Skills" width="600">
   </a>
 </p>
 
@@ -55,7 +55,7 @@
 ---
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=HarshittSinghh&style=for-the-badge&color=blueviolet" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=HarshittSinghh&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </div>
 
 ---
@@ -106,5 +106,5 @@
 </p>
 
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
