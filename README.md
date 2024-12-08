@@ -107,5 +107,5 @@
 </p>
 
 <p align="center">
-  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+  <img width="1000" src="https://media.giphy.com/media/Wj5VZ97efRECO/giphy.gif" alt="Snake Animation"/>
 </p>
