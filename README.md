@@ -34,7 +34,10 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=HarshittSinghh&theme=highcontrast&hide_border=true&border_radius=5&card_width=800" width="800" height="220" alt="GitHub Streak Stats">
+  <p align="center">
+  <img src="https://streak-stats.demolab.com?user=HarshittSinghh&theme=highcontrast&hide_border=true&border_radius=5&card_width=800" alt="GitHub Streak Stats" width="100%" height="auto">
+</p>
+
 </p>
 
 ---
