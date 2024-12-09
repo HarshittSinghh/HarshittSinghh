@@ -1,4 +1,5 @@
-# Hi 👋, I'm **Harshit Kumar Singh** (he/him) <div align="right">
+# Hi 👋, I'm **Harshit Kumar Singh** (he/him)
+<div align="right">
   <img src="https://komarev.com/ghpvc/?username=HarshittSinghh&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </div>
 <p align="center">
