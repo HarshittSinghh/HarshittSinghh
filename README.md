@@ -1,5 +1,5 @@
 # Hi 👋, I'm **Harshit Kumar Singh** (he/him)
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=HarshittSinghh&style=for-the-badge&color=blueviolet" alt="Profile Views" /> </p> <p align="center"> <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" alt="Hello" width="300"> </p>
 <p align="center">
   <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" alt="Hello" width="300">
 </p>
