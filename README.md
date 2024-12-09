@@ -1,10 +1,15 @@
 # Hi 👋, I'm **Harshit Kumar Singh** (he/him)
-<p align="center">
-  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" alt="Hello" width="300">
-</p>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=HarshittSinghh&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </div>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" alt="Hello" width="300">
+</p>
+
+---
+
 ### 🚀 About Me
 - 🎓 **B.Tech** in Computer Science Engineering at **KIIT Bhubaneswar**, Odisha.
 - 💡 Passionate about **Engineering, Programming, Science, and Technology**.
@@ -42,8 +47,6 @@
   <img src="https://streak-stats.demolab.com?user=HarshittSinghh&theme=highcontrast&hide_border=true&border_radius=5&card_width=800" alt="GitHub Streak Stats" width="100%" height="auto">
 </p>
 
----
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshittSinghh&langs_count=10&theme=radical&hide_border=true&card_width=400&layout=pie" alt="Most Used Languages Pie Chart">
 </p>
@@ -51,6 +54,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshittSinghh&langs_count=5&layout=compact&theme=radical&hide_border=true&card_width=400" width="400" alt="Most Used Languages">
 </p>
+
+---
 
 ### 📂 Most Used Languages
 <p align="center">
@@ -80,7 +85,7 @@
   <a href="https://twitter.com/Harshitt_Singhh">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
   </a>
-  <a href="https://www.linkedin.com/in/harshit-kumar-singh-46511022b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <a href="https://www.linkedin.com/in/harshit-kumar-singh-46511022b">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
 </p>
@@ -92,12 +97,15 @@
 
 ---
 
+### 🐍 Contribution Snake
+<p align="center">
+  <img width="1000" src="https://raw.githubusercontent.com/HarshittSinghh/HarshittSinghh/output/github-snake.svg" alt="snake"/>
+</p>
+
+---
+
 ✨ This repository is special because it showcases my journey and projects. Feel free to explore and connect!
 
 <p align="center">
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Coding">
-</p>
-
-<p align="center">
-  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
