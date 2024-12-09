@@ -1,11 +1,10 @@
 # Hi 👋, I'm **Harshit Kumar Singh** (he/him)
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=HarshittSinghh&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-</div>
 <p align="center">
   <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" alt="Hello" width="300">
 </p>
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=HarshittSinghh&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+</div>
 ### 🚀 About Me
 - 🎓 **B.Tech** in Computer Science Engineering at **KIIT Bhubaneswar**, Odisha.
 - 💡 Passionate about **Engineering, Programming, Science, and Technology**.
