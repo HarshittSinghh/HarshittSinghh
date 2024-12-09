@@ -1,4 +1,6 @@
-# Hi 👋, I'm **Harshit Kumar Singh** (he/him)
+# Hi 👋, I'm **Harshit Kumar Singh** (he/him) <div align="right">
+  <img src="https://komarev.com/ghpvc/?username=HarshittSinghh&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+</div>
 <p align="center">
   <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" alt="Hello" width="300">
 </p>
@@ -50,16 +52,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshittSinghh&langs_count=5&layout=compact&theme=radical&hide_border=true&card_width=400" width="400" alt="Most Used Languages">
 </p>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HarshittSinghh&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-</div>
-
----
-
 ### 📂 Most Used Languages
-
 <p align="center">
   🖥️ **HTML**: Building stunning web interfaces.  
   🌐 **CSS**: Designing interactive and responsive layouts.  
