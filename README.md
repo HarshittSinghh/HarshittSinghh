@@ -104,14 +104,12 @@
 
 ## 📂 Most Used Languages
 
-<p>
-  🖥️ **HTML** – Building intuitive UIs  <br/>
-  🌐 **CSS** – Styling responsive designs  <br/>
-  ⚙️ **JavaScript** – Making pages dynamic  <br/>
-  📱 **Dart** – Flutter for cross-platform apps  <br/>
-  🗄️ **MongoDB & SQL** – Efficient data handling  <br/>
-  💡 **Node.js & Express.js** – Backend APIs & servers
-</p>
+ - 🖥️ **HTML** – Building intuitive UIs  <br/>
+ - 🌐 **CSS** – Styling responsive designs  <br/>
+ - ⚙️ **JavaScript** – Making pages dynamic  <br/>
+ - 📱 **Dart** – Flutter for cross-platform apps  <br/>
+ - 🗄️ **MongoDB & SQL** – Efficient data handling  <br/>
+ - 💡 **Node.js & Express.js** – Backend APIs & servers
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="400">
