@@ -16,7 +16,7 @@
 - 💡 Passionate about **Engineering, Programming, Science, and Technology**  
 - 🔭 Currently exploring **Flutter** and **Mobile App Development**  
 - 🌱 Learning **Backend Development** with **Node.js**, **Express.js**, and **MongoDB**  
-- 📫 Email me at: [hsinghjnpkkt111@gmail.com](mailto:hsinghjnpkkt111@gmail.com)  
+- 📫 Email me at: [harshit.kr.singh.work@gmail.com](mailto:harshit.kr.singh.work@gmail.com)  
 - ⚡ Fun Fact: **Still in my teens**—excited to grow and contribute to tech 🌱  
 
 <p align="center">
@@ -32,7 +32,7 @@
 - 📱 **Mobile**: Flutter  
 - 🔧 **Backend**: Node.js, Express.js  
 - 🗄️ **Databases**: MongoDB, SQL  
-- 🛠️ **Tools**: Firebase, GitHub, Postman, Photoshop, AutoCAD  
+- 🛠️ **Tools**: Firebase, GitHub, Postman, Photoshop, AutoCAD , GCP
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -42,21 +42,39 @@
 
 ---
 
-## 🌟 Notable Projects
+## 💼 Projects
 
-- 📱 **My Portfolio App (Flutter)** – Interactive portfolio using Flutter & Firebase  
-- 🌐 **Tech Blog Platform** – MERN Stack blog app with user authentication & admin dashboard  
-- 🎮 **Tic-Tac-Toe AI** – Java game featuring unbeatable AI via minimax algorithm  
-- 🔗 [Explore more projects →](https://github.com/HarshittSinghh?tab=repositories)
+- 💸 **Expense Tracker**  
+  React.js app that helps users monitor and visualize their spending patterns.
+
+- 🏀 **SportsKart Landing Page**  
+  A responsive and modern landing page for SportsKart built using React.js.
+
+- 🩺 **HealthVista**  
+  A health & fitness app with features like AI symptom checker, BMI & heart rate calculator, sleep tracking, Google login, appointment manager, and nearby facility locator.
+
+- 👨‍⚕️ **MediMitra**  
+  A complete Flutter + Firebase app for managing patient records, secure logins with Google, AI-based health assistant, and integrated Google Maps for healthcare locations.
+
+- 💊 **Pharma Blog Website**  
+  User-friendly and visually clean blog site made with HTML, CSS, and JS.
+
+- 🐦 **Twitter Clone**  
+  A responsive clone of X (Twitter) using React.js and Firebase. Features real-time feed, Google sign-in, and Material-UI design.
+
+- 🎓 **Face Recognition Attendance System**  
+  AI-powered attendance system with portals for Admin (registration), Teachers (attendance via face recognition), and Students (view attendance). Built using Python and face_recognition library.
 
 ---
 
-## 🏆 Achievements & Interests
 
-- 🏅 Participated in multiple **Hackathons**  
-- 🥇 Recognized as **Top Performer** in college coding club  
-- 👨‍🏫 Mentored juniors in web & app development  
-- 🎮 Gamer | 📸 Photographer | 🎧 Music Enthusiast | 💻 OSS Contributor  
+## 🏆 Honors & Achievements
+
+- 🥉 **2nd Runner-up** - **UP-Skill Mafia Hackathon** (MERN Stack)
+- 🥉 **3rd Position** - **Konnexweb Hackathon by KIIT Konnexions** (Web Development)
+- 🧠 **Gemini API Developer Competition** – Built **HealthVista**, a health app
+- ✅ **Qualified** - College-level round of **Smart India Hackathon 2024** (App Development)
+- 🥇 **1st Position** - **Decode & Dominate**, by School of Computer Science and Engineering (Web Dev)
 
 ---
 
@@ -87,17 +105,18 @@
 ## 📂 Most Used Languages
 
 <p align="center">
-  🖥️ **HTML** – Building intuitive UIs  
-  🌐 **CSS** – Styling responsive designs  
-  ⚙️ **JavaScript** – Making pages dynamic  
-  📱 **Dart** – Flutter for cross-platform apps  
-  🗄️ **MongoDB & SQL** – Efficient data handling  
+  🖥️ **HTML** – Building intuitive UIs  <br/>
+  🌐 **CSS** – Styling responsive designs  <br/>
+  ⚙️ **JavaScript** – Making pages dynamic  <br/>
+  📱 **Dart** – Flutter for cross-platform apps  <br/>
+  🗄️ **MongoDB & SQL** – Efficient data handling  <br/>
   💡 **Node.js & Express.js** – Backend APIs & servers
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKq74m8VasRxkzq/giphy.gif" alt="Coding" width="400">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="400">
 </p>
+
 
 ---
 
