@@ -104,7 +104,7 @@
 
 ## 📂 Most Used Languages
 
-<p align="center">
+<p>
   🖥️ **HTML** – Building intuitive UIs  <br/>
   🌐 **CSS** – Styling responsive designs  <br/>
   ⚙️ **JavaScript** – Making pages dynamic  <br/>
