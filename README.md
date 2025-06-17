@@ -1,18 +1,23 @@
 # Hi 👋, I'm **Harshit Kumar Singh** (he/him)
+
 <p align="center">
   <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" alt="Hello" width="300">
 </p>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=HarshittSinghh&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </div>
 
+---
+
 ### 🚀 About Me
-- 🎓 **B.Tech** in Computer Science Engineering at **KIIT Bhubaneswar**, Odisha.
-- 💡 Passionate about **Engineering, Programming, Science, and Technology**.
-- 🔭 Currently focusing on **Flutter** and **Mobile Development**.
-- 🌱 Learning **Backend Development** with **Node.js**, **Express.js**, and **MongoDB**.
-- 📫 You can reach me at: [hsinghjnpkkt111@gmail.com](mailto:hsinghjnpkkt111@gmail.com).
-- ⚡ Fun fact: **I’m still in my teen years** but eager to contribute to the tech world!
+
+- 🎓 **B.Tech** in Computer Science Engineering at **KIIT Bhubaneswar**, Odisha.  
+- 💡 Passionate about **Engineering, Programming, Science, and Technology**.  
+- 🔭 Currently focusing on **Flutter** and **Mobile Development**.  
+- 🌱 Learning **Backend Development** with **Node.js**, **Express.js**, and **MongoDB**.  
+- 📫 Reach me at: [hsinghjnpkkt111@gmail.com](mailto:hsinghjnpkkt111@gmail.com)  
+- ⚡ Fun fact: **I’m still in my teen years** but eager to contribute to the tech world!  
 - 🌱 **Always learning and exploring new technologies.**
 
 <p align="center">
@@ -22,12 +27,13 @@
 ---
 
 ### 🛠️ Skills
-- 💻 **Programming Languages**: Java, C, Dart
-- 🌐 **Web Development**: HTML, CSS, JavaScript, React, MERN Stack (MongoDB, Express.js, React, Node.js)
-- 📱 **Mobile Development**: Flutter (Dart)
-- 🔧 **Backend Development**: **Node.js**, **Express.js**
-- 🗄️ **Database**: MongoDB, SQL
-- 🔧 **Tools & Technologies**: Firebase, GitHub, Postman, Adobe Photoshop, AutoCAD
+
+- 💻 **Programming Languages**: Java, C, Dart  
+- 🌐 **Web Development**: HTML, CSS, JavaScript, React, MERN Stack (MongoDB, Express.js, React, Node.js)  
+- 📱 **Mobile Development**: Flutter (Dart)  
+- 🔧 **Backend Development**: Node.js, Express.js  
+- 🗄️ **Database**: MongoDB, SQL  
+- 🔧 **Tools & Technologies**: Firebase, GitHub, Postman, Adobe Photoshop, AutoCAD  
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -37,13 +43,29 @@
 
 ---
 
+### 🌟 Notable Projects
+
+- 📱 **My Portfolio App (Flutter)** – A clean and interactive personal portfolio built with Flutter and Firebase.  
+- 🌐 **Tech Blog Platform** – A full-stack blog app using MERN stack with authentication and admin dashboard.  
+- 🎮 **Tic-Tac-Toe AI** – Java-based game with unbeatable AI using minimax algorithm.  
+- [More Projects →](https://github.com/HarshittSinghh?tab=repositories)
+
+---
+
+### 🏆 Achievements & Interests
+
+- 🏅 Participated in various college-level **Hackathons**.  
+- 🥇 **Top Performer** in competitive programming club at college.  
+- 👨‍🏫 Volunteered to mentor juniors in web and app development.  
+- 🎮 Gamer | 📸 Photographer | 🎧 Music Lover | 💻 Open Source Contributor  
+
+---
+
 ### 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=HarshittSinghh&theme=highcontrast&hide_border=true&border_radius=5&card_width=800" alt="GitHub Streak Stats" width="100%" height="auto">
 </p>
-
----
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshittSinghh&langs_count=10&theme=radical&hide_border=true&card_width=400&layout=pie" alt="Most Used Languages Pie Chart">
@@ -53,7 +75,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshittSinghh&langs_count=5&layout=compact&theme=radical&hide_border=true&card_width=400" width="400" alt="Most Used Languages">
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshittSinghh&theme=github-compact&hide_border=true" alt="Contribution Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HarshittSinghh&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
 ### 📂 Most Used Languages
+
 <p align="center">
   🖥️ **HTML**: Building stunning web interfaces.  
   🌐 **CSS**: Designing interactive and responsive layouts.  
@@ -101,4 +134,4 @@
 
 <p align="center">
   <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p> 
+</p>
